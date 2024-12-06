@@ -1,4 +1,4 @@
-const generate = require('@retrogen/generate')
+const generate = require('./generate')
 const fs = require('fs/promises')
 const path = require('path')
 const { DateTime } = require('luxon')

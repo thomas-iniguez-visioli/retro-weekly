@@ -4,7 +4,7 @@ const path = require('path')
 const { DateTime } = require('luxon')
 
 async function markdown () {
-  const organization = 'nodejs' // change this if you want to use a different organization
+  const organization = 'thomas-iniguez-visioli' // change this if you want to use a different organization
 
   const now = DateTime.now()
   const then = now.minus({ days: 7 }) // change this if you want to set a different period - you can set to weeks or months, too. Check the Luxon DateTime API.

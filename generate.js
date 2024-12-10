@@ -16,9 +16,10 @@ async function markdown () {
   }
 
   const retro = await generate(organization, dates)
+  const retro2=await generate("alphaleadership", dates)
 
   // write the data out to a file
-  fs.writeFile(path.resolve(`./retros/${dates.end}.md`), retro)
+  fs.writeFile(path.resolve(`./retros/${dates.end}.md`), retro+retro2)
 }
 
 markdown()

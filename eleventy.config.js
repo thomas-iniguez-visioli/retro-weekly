@@ -2,7 +2,7 @@ const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
 module.exports = async function(eleventyConfig) {
 	eleventyConfig.setInputDirectory("retros");
     
-    eleventyConfig.setOutputDirectory("dist");
+    eleventyConfig.setOutputDirectory("docs");
     const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
 
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);

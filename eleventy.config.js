@@ -10,7 +10,7 @@ module.exports = async function(eleventyConfig) {
 		type: "rss", // or "rss", "json"
 		outputPath: "/feed.xml",
 		collection: {
-			name: "*", // iterate over `collections.posts`
+			name: "default", // iterate over `collections.posts`
 			limit: 0,     // 0 means no limit
 		},
 		metadata: {

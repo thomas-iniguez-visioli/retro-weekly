@@ -17,7 +17,7 @@ module.exports = async function(eleventyConfig) {
 			language: "en",
 			title: "Blog Title",
 			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			base: "https://thomas-iniguez-visioli.github.io/",
 			author: {
 				name: "Your Name",
 				email: "", // Optional
@@ -26,5 +26,5 @@ module.exports = async function(eleventyConfig) {
 	});
 };
 module.exports.config = {
-	pathPrefix: "/eleventy-base-blog/",
+	pathPrefix: "/retro-weekly/",
 }

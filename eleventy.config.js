@@ -7,8 +7,8 @@ module.exports = async function(eleventyConfig) {
 
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     eleventyConfig.addPlugin(feedPlugin, {
-		type: "rss", // or "rss", "json"
-		outputPath: "/feed.xml",
+		type: "json", // or "rss", "json"
+		outputPath: "/feed.json",
 		collection: {
 			name: "all", // iterate over `collections.posts`
 			limit: 0,     // 0 means no limit

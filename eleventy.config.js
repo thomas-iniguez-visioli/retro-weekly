@@ -14,7 +14,7 @@ module.exports = async function(eleventyConfig) {
 			limit: 0,     // 0 means no limit
 		},
 		metadata: {
-			language: "en",
+			language: "fr ",
 			title: "Blog Title",
 			subtitle: "This is a longer description about your blog.",
 			base: "https://thomas-iniguez-visioli.github.io/",

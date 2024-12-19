@@ -11,7 +11,7 @@ module.exports = async function(eleventyConfig) {
 		outputPath: "/feed.json",
 		collection: {
 			name: "all", // iterate over `collections.posts`
-			limit: 0,     // 0 means no limit
+			limit: 10,     // 0 means no limit
 		},
 		metadata: {
 			language: "fr ",

@@ -2,9 +2,10 @@ const generate = require('@retrogen/generate')
 const fs = require('fs/promises')
 const path = require('path')
 const { DateTime } = require('luxon')
-
+const generate = require('@retrogen/generate')
+const fs = require('fs/promises')
 async function markdown () {
-  const organization = 'thomas-iniguez-visioli' // change this if you want to use a different organization
+  const organization = 'vbcq-volley' // change this if you want to use a different organization
 
   const now = DateTime.now()
   const then = now.minus({ days: 1 }) // change this if you want to set a different period - you can set to weeks or months, too. Check the Luxon DateTime API.
@@ -19,7 +20,7 @@ async function markdown () {
   //await generate("listenbourg-legal", dates)
 
   // write the data out to a file
-  fs.writeFile(path.resolve(`./retros/perso-${dates.end}.md`), retro)
+  fs.writeFile(path.resolve(`./retros/vbcq-${dates.end}.md`), retro)
 }
 
 markdown()

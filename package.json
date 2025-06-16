@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "standard",
     "lint:fix": "standard --fix",
-    "generate": "npm update &&node generate.js  && npx @11ty/eleventy"
+    "generate": "npm update &&node generate.js && node generate2.js  && npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",

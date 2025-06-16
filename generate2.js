@@ -2,8 +2,6 @@ const generate = require('@retrogen/generate')
 const fs = require('fs/promises')
 const path = require('path')
 const { DateTime } = require('luxon')
-const generate = require('@retrogen/generate')
-const fs = require('fs/promises')
 async function markdown () {
   const organization = 'vbcq-volley' // change this if you want to use a different organization
 

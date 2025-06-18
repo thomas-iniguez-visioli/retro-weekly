@@ -1,0 +1,45 @@
+name: Generate Retro
+on:
+  schedule:
+    # Run once a week at 00:05 AM UTC on Sunday.
+    - cron: 0 5 * * *
+  # Run on demand via the GitHub UI
+  workflow_dispatch:
+
+ 
+
+      
+      
+jobs:
+  generate_retro:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: run cloner
+        uses: actions/checkout@v3
+      - name: run install
+        run: npm install
+      - name: run generator
+        run: npm run generate2 # Run the generation tool
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: run create/update pull request
+        uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          body: >
+            Here's a new weekly retro, automatically generated with
+            GitHub Actions and `@retrogen/generate`.
+          branch: retrogen  # Custom branch *just* for this Action.
+          commit-message: 'doc: generate weekly retro'
+          title: 'doc: generate weekly retro'
+          assignees: bnb # change to whoever you want to be assigned to this PR
+          auto-merge: squash
+      - id: automerge
+        name: automerge
+        uses: "pascalgn/automerge-action@v0.16.4"
+        env:
+            GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"

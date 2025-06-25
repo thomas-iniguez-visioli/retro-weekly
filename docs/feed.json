@@ -12,6 +12,22 @@
   ],
   "items": [
     {
+      "id": "https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/",
+      "url": "https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/",
+      "title": "",
+      "content_html": "<h1>Retrospective for <code>vbcq-volley</code> from 2025-06-24 to 2025-06-25</h1>\n<p>Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 2 Discussions from 1 authors.</p>\n<h3>temp</h3>\n<h4>Open Discussions</h4>\n<ul>\n<li>2.0.0 (<a href=\"https://github.com/vbcq-volley/temp/discussions/2863\">#2863</a>)</li>\n<li>1.5.0 (<a href=\"https://github.com/vbcq-volley/temp/discussions/2854\">#2854</a>)</li>\n</ul>\n<h4>Merged Pull Requests</h4>\n<ul>\n<li>Dev (<a href=\"https://github.com/vbcq-volley/temp/pull/2860\">#2860</a>)</li>\n<li>Dev (<a href=\"https://github.com/vbcq-volley/temp/pull/2853\">#2853</a>)</li>\n</ul>\n",
+      "date_published": "2025-06-25T00:00:00Z"
+    }
+    ,
+    {
+      "id": "https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/",
+      "url": "https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/",
+      "title": "",
+      "content_html": "<h1>Retrospective for <code>vbcq-volley</code> from 2025-06-23 to 2025-06-24</h1>\n<p>Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.</p>\n<h3>temp</h3>\n<h4>Merged Pull Requests</h4>\n<ul>\n<li>Create dependabot.yml (<a href=\"https://github.com/vbcq-volley/temp/pull/2221\">#2221</a>)</li>\n</ul>\n",
+      "date_published": "2025-06-24T00:00:00Z"
+    }
+    ,
+    {
       "id": "https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/",
       "url": "https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/",
       "title": "",

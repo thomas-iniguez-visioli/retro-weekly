@@ -7,8 +7,8 @@ module.exports = async function(eleventyConfig) {
 
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     eleventyConfig.addPlugin(feedPlugin, {
-		type: "json", // or "rss", "json"
-		outputPath: "/feed.json",
+		type: "rss", // or "rss", "json"
+		outputPath: "/feed.xml",
 		collection: {
 			name: "all", // iterate over `collections.posts`
 			limit: 0,     // 0 means no limit
@@ -17,9 +17,9 @@ module.exports = async function(eleventyConfig) {
 			language: "fr ",
 			title: "Blog Title",
 			subtitle: "This is a longer description about your blog.",
-			base: "https://thomas-iniguez-visioli.github.io/",
+			base: "https://thomas-iniguez-visioli.github.io",
 			author: {
-				name: "Your Name",
+				name: "thomas iniguez",
 				email: "", // Optional
 			}
 		}

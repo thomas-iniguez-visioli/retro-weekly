@@ -1,460 +1,598 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://example.com/eleventy-base-blog/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://thomas-iniguez-visioli.github.io/retro-weekly/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Title</title>
-    <link>https://example.com/eleventy-base-blog/</link>
-    <atom:link href="https://example.com/eleventy-base-blog/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://thomas-iniguez-visioli.github.io/retro-weekly/</link>
+    <atom:link href="https://thomas-iniguez-visioli.github.io/retro-weekly/feed.xml" rel="self" type="application/rss+xml" />
     <description>This is a longer description about your blog.</description>
-    <language>en</language>
+    <language>fr </language>
     <item>
       <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-12-11/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-12-10 to 2024-12-11&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 52 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;update (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/12&quot;&gt;#12&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/11&quot;&gt;#11&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/64&quot;&gt;#64&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/63&quot;&gt;#63&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/62&quot;&gt;#62&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/61&quot;&gt;#61&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/60&quot;&gt;#60&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/59&quot;&gt;#59&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/58&quot;&gt;#58&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/57&quot;&gt;#57&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/56&quot;&gt;#56&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/55&quot;&gt;#55&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/54&quot;&gt;#54&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/53&quot;&gt;#53&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/52&quot;&gt;#52&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/51&quot;&gt;#51&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/50&quot;&gt;#50&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/49&quot;&gt;#49&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/48&quot;&gt;#48&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/47&quot;&gt;#47&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/46&quot;&gt;#46&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/45&quot;&gt;#45&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/44&quot;&gt;#44&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/43&quot;&gt;#43&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/42&quot;&gt;#42&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/41&quot;&gt;#41&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/40&quot;&gt;#40&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/39&quot;&gt;#39&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/38&quot;&gt;#38&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/37&quot;&gt;#37&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/36&quot;&gt;#36&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/35&quot;&gt;#35&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/34&quot;&gt;#34&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/33&quot;&gt;#33&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/32&quot;&gt;#32&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/31&quot;&gt;#31&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/30&quot;&gt;#30&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/28&quot;&gt;#28&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/27&quot;&gt;#27&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/26&quot;&gt;#26&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Wed, 11 Dec 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-12-11/</guid>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-12-10/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-12-09 to 2024-12-10&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 52 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;update (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/12&quot;&gt;#12&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/11&quot;&gt;#11&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/10&quot;&gt;#10&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/61&quot;&gt;#61&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/60&quot;&gt;#60&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/59&quot;&gt;#59&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/58&quot;&gt;#58&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/57&quot;&gt;#57&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/56&quot;&gt;#56&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/55&quot;&gt;#55&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/54&quot;&gt;#54&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/53&quot;&gt;#53&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/52&quot;&gt;#52&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/51&quot;&gt;#51&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/50&quot;&gt;#50&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/49&quot;&gt;#49&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/48&quot;&gt;#48&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/47&quot;&gt;#47&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/46&quot;&gt;#46&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/45&quot;&gt;#45&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/44&quot;&gt;#44&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/43&quot;&gt;#43&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/42&quot;&gt;#42&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/41&quot;&gt;#41&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/40&quot;&gt;#40&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/39&quot;&gt;#39&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/38&quot;&gt;#38&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/37&quot;&gt;#37&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/36&quot;&gt;#36&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/35&quot;&gt;#35&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/34&quot;&gt;#34&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/33&quot;&gt;#33&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/32&quot;&gt;#32&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/31&quot;&gt;#31&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/30&quot;&gt;#30&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/28&quot;&gt;#28&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/27&quot;&gt;#27&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/26&quot;&gt;#26&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/20&quot;&gt;#20&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/19&quot;&gt;#19&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Tue, 10 Dec 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-12-10/</guid>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-12-09/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-12-08 to 2024-12-09&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 10 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/20&quot;&gt;#20&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/19&quot;&gt;#19&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/8&quot;&gt;#8&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Mon, 09 Dec 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-12-09/</guid>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-12-08/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-12-01 to 2024-12-08&lt;/h1&gt;
-&lt;p&gt;Reporting on 8 Issues from 2 authors, 32 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/issues/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/7&quot;&gt;#7&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Actions/retrogen (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-27/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-26 to 2025-06-27&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 8 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/337&quot;&gt;#337&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Bump snyk/actions from 806182742461562b67788a64410098c9d9b96adb to cdb760004ba9ea4d525f2e043745dfe85bb9077e (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;[Snyk] Security upgrade eslint from 8.57.1 to 9.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/28&quot;&gt;#28&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #26 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/27&quot;&gt;#27&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;merge (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/26&quot;&gt;#26&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Create README.md (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update temp.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 47: DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 44: Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/20&quot;&gt;#20&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Revert &amp;quot;Merge pull request #13 from thomas-iniguez-visioli/main&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/19&quot;&gt;#19&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #13 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update codeql.yml (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;t (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update vite.config.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/336&quot;&gt;#336&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/335&quot;&gt;#335&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/334&quot;&gt;#334&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/333&quot;&gt;#333&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 179: Client-side URL redirect (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/330&quot;&gt;#330&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;vbcq&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/issues/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump source from &lt;code&gt;e9dc991&lt;/code&gt; to &lt;code&gt;535b2bb&lt;/code&gt; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/43&quot;&gt;#43&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/137&quot;&gt;#137&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 27 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-27/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-26/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-25 to 2025-06-26&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 13 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/333&quot;&gt;#333&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 179: Client-side URL redirect (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/330&quot;&gt;#330&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/332&quot;&gt;#332&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/331&quot;&gt;#331&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/329&quot;&gt;#329&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/328&quot;&gt;#328&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/327&quot;&gt;#327&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 116: Double escaping or unescaping (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/326&quot;&gt;#326&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 123: Double escaping or unescaping (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/325&quot;&gt;#325&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/324&quot;&gt;#324&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/323&quot;&gt;#323&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump source from &lt;code&gt;4b7db7e&lt;/code&gt; to &lt;code&gt;61ce79f&lt;/code&gt; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/42&quot;&gt;#42&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/136&quot;&gt;#136&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 26 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-26/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-24 to 2025-06-25&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 2 Discussions from 1 authors.&lt;/p&gt;
+&lt;h3&gt;temp&lt;/h3&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2.0.0 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2863&quot;&gt;#2863&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.5.0 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2854&quot;&gt;#2854&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2860&quot;&gt;#2860&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2853&quot;&gt;#2853&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 25 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-25/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-24 to 2025-06-25&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 24 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/136&quot;&gt;#136&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/135&quot;&gt;#135&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/323&quot;&gt;#323&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/322&quot;&gt;#322&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/321&quot;&gt;#321&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/320&quot;&gt;#320&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/319&quot;&gt;#319&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/318&quot;&gt;#318&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/317&quot;&gt;#317&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/316&quot;&gt;#316&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/315&quot;&gt;#315&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/314&quot;&gt;#314&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/313&quot;&gt;#313&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;(Sonar) Fixed finding: &amp;quot;&amp;quot;RegExp.exec()&amp;quot; should be preferred over &amp;quot;String.match()&amp;quot;&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/312&quot;&gt;#312&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/311&quot;&gt;#311&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;(Sonar) Fixed finding: &amp;quot;Variables should be declared with &amp;quot;let&amp;quot; or &amp;quot;const&amp;quot;&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/310&quot;&gt;#310&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;✨ (Sonar) Fixed finding: &amp;quot;&amp;quot;Array.prototype.sort()&amp;quot; and &amp;quot;Array.prototype.toSorted()&amp;quot; should use a compare function&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/309&quot;&gt;#309&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump postcss from 8.4.37 to 8.4.38 in /themes/hexo-theme in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/308&quot;&gt;#308&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/307&quot;&gt;#307&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/306&quot;&gt;#306&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump the npm_and_yarn group across 1 directory with 2 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/305&quot;&gt;#305&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;(Semgrep) Fixed finding: &amp;quot;insecure-document-method&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/304&quot;&gt;#304&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;sync (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/41&quot;&gt;#41&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;stable-diffusion-webui-amdgpu&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork Sync: Update from parent repository (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/stable-diffusion-webui-amdgpu/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 25 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-25/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-23 to 2025-06-24&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;temp&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Create dependabot.yml (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2221&quot;&gt;#2221&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 24 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-23 to 2025-06-24&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump the npm_and_yarn group across 1 directory with 2 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/305&quot;&gt;#305&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/135&quot;&gt;#135&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/134&quot;&gt;#134&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;stable-diffusion-webui-amdgpu&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork Sync: Update from parent repository (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/stable-diffusion-webui-amdgpu/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[Snyk] Upgrade xml-formatter from 3.6.5 to 3.6.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1225&quot;&gt;#1225&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 24 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-23/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-22 to 2025-06-23&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/134&quot;&gt;#134&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 23 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-23/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-22/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-21 to 2025-06-22&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/133&quot;&gt;#133&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/12&quot;&gt;#12&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/11&quot;&gt;#11&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/10&quot;&gt;#10&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/8&quot;&gt;#8&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/7&quot;&gt;#7&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ws from 8.13.0 to 8.18.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ejs from 3.1.9 to 3.1.10 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Snyk] Upgrade xml-formatter from 3.6.5 to 3.6.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1225&quot;&gt;#1225&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 08 Dec 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-12-08/</guid>
+      <pubDate>Sun, 22 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-22/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-12-07/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-11-30 to 2024-12-07&lt;/h1&gt;
-&lt;p&gt;Reporting on 8 Issues from 2 authors, 28 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-21/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-20 to 2025-06-21&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
+&lt;h3&gt;temp&lt;/h3&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/issues/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.4.0 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2787&quot;&gt;#2787&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Actions/retrogen (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2786&quot;&gt;#2786&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2785&quot;&gt;#2785&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;portfolio&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
+&lt;h3&gt;git-win&lt;/h3&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Bump snyk/actions from 806182742461562b67788a64410098c9d9b96adb to cdb760004ba9ea4d525f2e043745dfe85bb9077e (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;[Snyk] Security upgrade eslint from 8.57.1 to 9.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/28&quot;&gt;#28&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #26 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/27&quot;&gt;#27&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;merge (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/26&quot;&gt;#26&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Create README.md (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update temp.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 47: DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 44: Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/20&quot;&gt;#20&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Revert &amp;quot;Merge pull request #13 from thomas-iniguez-visioli/main&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/19&quot;&gt;#19&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #13 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update codeql.yml (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;t (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update vite.config.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;vbcq&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/issues/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/10&quot;&gt;#10&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/8&quot;&gt;#8&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/7&quot;&gt;#7&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ws from 8.13.0 to 8.18.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ejs from 3.1.9 to 3.1.10 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump got from 11.8.5 to 14.4.7 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 07 Dec 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-12-07/</guid>
+      <pubDate>Sat, 21 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-21/</guid>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-11-30/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-11-30 to 2024-12-07&lt;/h1&gt;
-&lt;p&gt;Reporting on 8 Issues from 2 authors, 27 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-21/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-20 to 2025-06-21&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/issues/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/133&quot;&gt;#133&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Actions/retrogen (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;portfolio&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Bump snyk/actions from 806182742461562b67788a64410098c9d9b96adb to cdb760004ba9ea4d525f2e043745dfe85bb9077e (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;[Snyk] Security upgrade eslint from 8.57.1 to 9.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/28&quot;&gt;#28&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #26 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/27&quot;&gt;#27&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;merge (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/26&quot;&gt;#26&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Create README.md (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update temp.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 47: DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 44: Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/20&quot;&gt;#20&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Revert &amp;quot;Merge pull request #13 from thomas-iniguez-visioli/main&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/19&quot;&gt;#19&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #13 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update codeql.yml (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;t (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update vite.config.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;vbcq&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/issues/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/10&quot;&gt;#10&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/8&quot;&gt;#8&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/7&quot;&gt;#7&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ws from 8.13.0 to 8.18.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ejs from 3.1.9 to 3.1.10 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-      <pubDate>Sat, 30 Nov 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-11-30/</guid>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.com/eleventy-base-blog/2024-11-29/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2024-11-29 to 2024-12-06&lt;/h1&gt;
-&lt;p&gt;Reporting on 11 Issues from 2 authors, 23 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/issues/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Actions/retrogen (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;portfolio&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete regular expression for hostnames (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/17&quot;&gt;#17&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/16&quot;&gt;#16&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/14&quot;&gt;#14&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/9&quot;&gt;#9&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Bump snyk/actions from 806182742461562b67788a64410098c9d9b96adb to cdb760004ba9ea4d525f2e043745dfe85bb9077e (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;[Snyk] Security upgrade eslint from 8.57.1 to 9.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/28&quot;&gt;#28&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #26 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/27&quot;&gt;#27&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;merge (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/26&quot;&gt;#26&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Create README.md (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update temp.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 47: DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert no. 44: Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/20&quot;&gt;#20&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Revert &amp;quot;Merge pull request #13 from thomas-iniguez-visioli/main&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/19&quot;&gt;#19&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge pull request #13 from thomas-iniguez-visioli/main (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update codeql.yml (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/15&quot;&gt;#15&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;t (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/13&quot;&gt;#13&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update prebuild.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/11&quot;&gt;#11&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update vite.config.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Closed Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;give me some improvement  (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/12&quot;&gt;#12&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Client-side cross-site scripting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/10&quot;&gt;#10&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fix code scanning alert - Incomplete string escaping or encoding (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/issues/8&quot;&gt;#8&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;vbcq&lt;/h3&gt;
-&lt;h4&gt;Open Issues&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;🧚🤖 Pixeebot Activity Dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/issues/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/132&quot;&gt;#132&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;chore(deps): bump ws from 8.13.0 to 8.18.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(deps): bump ejs from 3.1.9 to 3.1.10 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Snyk] Upgrade xml-formatter from 3.6.5 to 3.6.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1225&quot;&gt;#1225&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump hexo-auto-toc from 1.0.6 to 1.0.7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/40&quot;&gt;#40&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump simple-git from 3.27.0 to 3.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/36&quot;&gt;#36&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sat, 21 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-21/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-20/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-19 to 2025-06-20&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
+&lt;h3&gt;temp&lt;/h3&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;1.3.0 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2764&quot;&gt;#2764&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Feed Updated 🍿 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2763&quot;&gt;#2763&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2762&quot;&gt;#2762&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 29 Nov 2024 24:00:00 GMT</pubDate>
-      <dc:creator>Your Name</dc:creator>
-      <guid>https://example.com/eleventy-base-blog/2024-11-29/</guid>
+      <pubDate>Fri, 20 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-20/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-20/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-19 to 2025-06-20&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/132&quot;&gt;#132&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/131&quot;&gt;#131&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump hexo-auto-toc from 1.0.6 to 1.0.7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/40&quot;&gt;#40&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump simple-git from 3.27.0 to 3.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/36&quot;&gt;#36&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[Snyk] Security upgrade hexo-seo from 2.0.0 to 2.0.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/38&quot;&gt;#38&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump hexo-auto-toc from 1.0.3 to 1.0.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/35&quot;&gt;#35&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump source from &lt;code&gt;1624f72&lt;/code&gt; to &lt;code&gt;0f874ba&lt;/code&gt; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/39&quot;&gt;#39&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump hexo-seo from 2.0.0 to 2.0.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/34&quot;&gt;#34&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;(Semgrep) Fixed finding: &amp;quot;insecure-document-method&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/304&quot;&gt;#304&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 20 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-20/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-19/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-18 to 2025-06-19&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
+&lt;h3&gt;temp&lt;/h3&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;1.2.4 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2755&quot;&gt;#2755&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2754&quot;&gt;#2754&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2753&quot;&gt;#2753&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 19 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-19/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-19/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-18 to 2025-06-19&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/131&quot;&gt;#131&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/130&quot;&gt;#130&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;(Semgrep) Fixed finding: &amp;quot;insecure-document-method&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/304&quot;&gt;#304&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps): bump brace-expansion from 1.1.11 to 1.1.12 in the npm_and_yarn group (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/303&quot;&gt;#303&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/301&quot;&gt;#301&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump @rollup/plugin-commonjs from 28.0.3 to 28.0.5 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/300&quot;&gt;#300&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/299&quot;&gt;#299&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump postcss from 8.4.36 to 8.4.37 in /src/themes/hexo-theme in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/302&quot;&gt;#302&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump simple-git from 3.27.0 to 3.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/36&quot;&gt;#36&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump hexo-auto-toc from 1.0.3 to 1.0.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/35&quot;&gt;#35&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(deps): bump hexo-seo from 2.0.0 to 2.0.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/34&quot;&gt;#34&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump source from &lt;code&gt;9de04a7&lt;/code&gt; to &lt;code&gt;0fe609f&lt;/code&gt; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/37&quot;&gt;#37&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 19 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-19/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-18/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-17 to 2025-06-18&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 8 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/130&quot;&gt;#130&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/129&quot;&gt;#129&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump postcss from 8.4.36 to 8.4.37 in /src/themes/hexo-theme in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/302&quot;&gt;#302&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/301&quot;&gt;#301&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump @rollup/plugin-commonjs from 28.0.3 to 28.0.5 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/300&quot;&gt;#300&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/299&quot;&gt;#299&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;update  (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/33&quot;&gt;#33&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;update (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/32&quot;&gt;#32&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 18 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-18/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-17/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-16 to 2025-06-17&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 2 authors, and 5 Discussions from 1 authors.&lt;/p&gt;
+&lt;h3&gt;temp&lt;/h3&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;1.2.3 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2751&quot;&gt;#2751&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.2.2 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2748&quot;&gt;#2748&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.2.1 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2745&quot;&gt;#2745&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.2.0 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2742&quot;&gt;#2742&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.1.1 (&lt;a href=&quot;https://github.com/vbcq-volley/temp/discussions/2739&quot;&gt;#2739&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2750&quot;&gt;#2750&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2749&quot;&gt;#2749&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2747&quot;&gt;#2747&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2746&quot;&gt;#2746&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2744&quot;&gt;#2744&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2743&quot;&gt;#2743&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2741&quot;&gt;#2741&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2740&quot;&gt;#2740&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge main into dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2738&quot;&gt;#2738&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2737&quot;&gt;#2737&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;git-win&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump got from 11.8.5 to 14.4.7 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump got from 9.6.0 to 11.8.5 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 17 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-17/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-17/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-16 to 2025-06-17&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 17 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/299&quot;&gt;#299&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/298&quot;&gt;#298&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/297&quot;&gt;#297&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/296&quot;&gt;#296&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump eslint from 9.27.0 to 9.29.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/295&quot;&gt;#295&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Snyk] Upgrade puppeteer from 24.8.2 to 24.9.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/294&quot;&gt;#294&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Snyk] Upgrade eslint from 9.26.0 to 9.27.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/293&quot;&gt;#293&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump pinia from 3.0.2 to 3.0.3 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/292&quot;&gt;#292&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump rollup from 4.41.1 to 4.43.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/291&quot;&gt;#291&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump puppeteer from 24.8.2 to 24.10.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/290&quot;&gt;#290&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump simple-git from 3.27.0 to 3.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/289&quot;&gt;#289&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/288&quot;&gt;#288&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump postcss from 8.4.35 to 8.4.36 in /src/themes/hexo-theme in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/282&quot;&gt;#282&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Snyk] Upgrade vitest from 3.1.2 to 3.1.3 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/279&quot;&gt;#279&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump eslint from 9.26.0 to 9.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/281&quot;&gt;#281&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/128&quot;&gt;#128&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;update  (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/31&quot;&gt;#31&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 17 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-17/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-16/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-15 to 2025-06-16&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;git-win&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump got from 9.6.0 to 11.8.5 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-16/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-16/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-15 to 2025-06-16&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 10 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump eslint from 9.27.0 to 9.29.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/295&quot;&gt;#295&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump pinia from 3.0.2 to 3.0.3 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/292&quot;&gt;#292&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump puppeteer from 24.8.2 to 24.10.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/290&quot;&gt;#290&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump simple-git from 3.27.0 to 3.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/289&quot;&gt;#289&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/288&quot;&gt;#288&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[Snyk] Upgrade puppeteer from 24.8.2 to 24.9.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/294&quot;&gt;#294&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Snyk] Upgrade eslint from 9.26.0 to 9.27.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/293&quot;&gt;#293&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump eslint from 9.26.0 to 9.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/281&quot;&gt;#281&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/128&quot;&gt;#128&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;update  (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/31&quot;&gt;#31&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 16 Jun 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-16/</guid>
     </item>
   </channel>
 </rss>

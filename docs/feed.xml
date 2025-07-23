@@ -8,6 +8,21 @@
     <language>fr </language>
     <item>
       <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-07-23/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-07-22 to 2025-07-23&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;git-win&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump ansi-regex from 3.0.0 to 3.0.1 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 23 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-07-23/</guid>
+    </item>
+    <item>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-21 to 2025-07-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -25,6 +40,192 @@
       <pubDate>Tue, 22 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-22/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-21/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-20 to 2025-07-21&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 21 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-21/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-20/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-19 to 2025-07-20&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps): bump the npm_and_yarn group across 2 directories with 4 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/355&quot;&gt;#355&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps): bump hexo-pro from 1.2.6 to 1.2.7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/352&quot;&gt;#352&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump postcss from 8.4.39 to 8.4.40 in /themes/hexo-theme in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/349&quot;&gt;#349&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;lafleur&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump the npm_and_yarn group across 1 directory with 3 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/lafleur/pull/11&quot;&gt;#11&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sun, 20 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-20/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-19/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-18 to 2025-07-19&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;lafleur&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump the npm_and_yarn group across 1 directory with 3 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/lafleur/pull/11&quot;&gt;#11&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps): bump the npm_and_yarn group with 3 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/354&quot;&gt;#354&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sat, 19 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-19/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-18/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-17 to 2025-07-18&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/351&quot;&gt;#351&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 18 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-18/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-17/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-16 to 2025-07-17&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/351&quot;&gt;#351&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 17 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-17/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-16/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-15 to 2025-07-16&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/351&quot;&gt;#351&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 16 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-16/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-15/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-14 to 2025-07-15&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps): bump hexo-pro from 1.2.6 to 1.2.7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/352&quot;&gt;#352&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/351&quot;&gt;#351&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/350&quot;&gt;#350&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 15 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-15/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-14/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-13 to 2025-07-14&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/350&quot;&gt;#350&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/143&quot;&gt;#143&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Mon, 14 Jul 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-14/</guid>
     </item>
     <item>
       <title></title>

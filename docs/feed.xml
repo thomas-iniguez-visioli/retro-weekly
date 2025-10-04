@@ -8,32 +8,18 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-03/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-02 to 2025-10-03&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/157&quot;&gt;#157&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-04/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-10-03 to 2025-10-04&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;source&lt;/h3&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/156&quot;&gt;#156&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;portfolio&lt;/h3&gt;
-&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/370&quot;&gt;#370&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps): bump SonarSource/sonarqube-scan-action from 5.3.1 to 6.0.0 in /.github/workflows in the github_actions group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/369&quot;&gt;#369&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 28: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/vbcq-volley/source/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 03 Oct 2025 24:00:00 GMT</pubDate>
+      <pubDate>Sat, 04 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-03/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-04/</guid>
     </item>
     <item>
       <title></title>

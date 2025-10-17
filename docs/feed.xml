@@ -8,44 +8,27 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-16/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-15 to 2025-10-16&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Bump form-data from 4.0.0 to 4.0.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1231&quot;&gt;#1231&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Potential fix for code scanning alert no. 44: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1230&quot;&gt;#1230&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Update index.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1229&quot;&gt;#1229&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Potential fix for code scanning alert no. 47: Incomplete string escaping or encoding (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1228&quot;&gt;#1228&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-17/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-16 to 2025-10-17&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/381&quot;&gt;#381&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/380&quot;&gt;#380&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/379&quot;&gt;#379&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/160&quot;&gt;#160&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;pia&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;[Snyk] Upgrade sass from 1.83.1 to 1.83.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/pia/pull/23&quot;&gt;#23&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;[Snyk] Upgrade ngx-chips from 2.1.0 to 2.2.2 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/pia/pull/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 16 Oct 2025 24:00:00 GMT</pubDate>
+      <pubDate>Fri, 17 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-16/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-17/</guid>
     </item>
     <item>
       <title></title>

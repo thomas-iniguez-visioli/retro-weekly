@@ -20,7 +20,7 @@
   "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^9.2.2",
+    "mocha": "^10.6.0",
     "nyc": "^15.1.0",
     "standard": "^16.0.4"
   },

@@ -8,6 +8,43 @@
     <language>fr </language>
     <item>
       <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-14/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-13 to 2025-11-14&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 53: Missing rate limiting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1235&quot;&gt;#1235&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Revert &amp;quot;Potential fix for code scanning alert no. 53: Missing rate limiting&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1234&quot;&gt;#1234&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Update README.md (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1233&quot;&gt;#1233&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 53: Missing rate limiting (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1232&quot;&gt;#1232&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/421&quot;&gt;#421&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/420&quot;&gt;#420&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add db.json (Hexo cache) to .gitignore to prevent tracking (merges into #417) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/419&quot;&gt;#419&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Ignore Hexo cache file db.json by adding to .gitignore (merges into #417) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/418&quot;&gt;#418&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/417&quot;&gt;#417&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/416&quot;&gt;#416&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/415&quot;&gt;#415&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/169&quot;&gt;#169&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 14 Nov 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-14/</guid>
+    </item>
+    <item>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-12/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-11 to 2025-11-12&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -25,6 +62,41 @@
       <pubDate>Wed, 12 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-12/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-11/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-10 to 2025-11-11&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 3 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/405&quot;&gt;#405&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 192: Double escaping or unescaping (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/404&quot;&gt;#404&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 186: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/403&quot;&gt;#403&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/402&quot;&gt;#402&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 190: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/401&quot;&gt;#401&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vitest from 4.0.7 to 4.0.8 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/400&quot;&gt;#400&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/399&quot;&gt;#399&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/398&quot;&gt;#398&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/166&quot;&gt;#166&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;vbcq&lt;/h3&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;tisza-fuite-du-2025-11-8/ (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/discussions/48&quot;&gt;#48&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 11 Nov 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-11/</guid>
     </item>
     <item>
       <title></title>

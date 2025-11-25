@@ -8,6 +8,36 @@
     <language>fr </language>
     <item>
       <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-25/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-24 to 2025-11-25&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/435&quot;&gt;#435&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump @vitejs/plugin-vue from 6.0.1 to 6.0.2 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/433&quot;&gt;#433&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump vitest from 4.0.10 to 4.0.13 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/437&quot;&gt;#437&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.2 to 7.2.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/434&quot;&gt;#434&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump vitest from 4.0.10 to 4.0.12 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/436&quot;&gt;#436&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Tue, 25 Nov 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-25/</guid>
+    </item>
+    <item>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-23 to 2025-11-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -25,6 +55,84 @@
       <pubDate>Mon, 24 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-24/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-23/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-22 to 2025-11-23&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[Snyk] Upgrade cacheable-request from 13.0.12 to 13.0.13 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1236&quot;&gt;#1236&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/435&quot;&gt;#435&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sun, 23 Nov 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-23/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-22/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-21 to 2025-11-22&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 7 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump vitest from 4.0.10 to 4.0.12 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/436&quot;&gt;#436&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/435&quot;&gt;#435&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.2 to 7.2.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/434&quot;&gt;#434&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump @vitejs/plugin-vue from 6.0.1 to 6.0.2 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/433&quot;&gt;#433&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/431&quot;&gt;#431&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;AdminLTE&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[Snyk] Fix for 6 vulnerabilities (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/AdminLTE/pull/18&quot;&gt;#18&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sat, 22 Nov 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-22/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-21/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-20 to 2025-11-21&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.2 to 7.2.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/434&quot;&gt;#434&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/431&quot;&gt;#431&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/175&quot;&gt;#175&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 21 Nov 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-21/</guid>
     </item>
     <item>
       <title></title>

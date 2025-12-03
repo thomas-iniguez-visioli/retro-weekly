@@ -8,6 +8,36 @@
     <language>fr </language>
     <item>
       <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-03/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-12-02 to 2025-12-03&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Add meaningful &lt;title&gt; to RSS item in docs/feed.xml (merges into #178) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/180&quot;&gt;#180&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure RFC-822-compliant &lt;pubDate&gt; by removing 24:00:00 (merges into #178) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/179&quot;&gt;#179&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/178&quot;&gt;#178&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/442&quot;&gt;#442&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.4 to 7.2.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/441&quot;&gt;#441&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/439&quot;&gt;#439&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/title&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-03/</guid>
+    </item>
+    <item>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-12-01 to 2025-12-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -22,7 +52,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 02 Dec 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 02 Dec 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-02/</guid>
     </item>
@@ -42,7 +72,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 01 Dec 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 01 Dec 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-01/</guid>
     </item>
@@ -62,7 +92,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 30 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 30 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-30/</guid>
     </item>
@@ -82,7 +112,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 29 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 29 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-29/</guid>
     </item>
@@ -107,7 +137,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 28 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 28 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-28/</guid>
     </item>
@@ -128,7 +158,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 27 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 27 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-27/</guid>
     </item>
@@ -153,7 +183,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 26 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 26 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-26/</guid>
     </item>
@@ -183,7 +213,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 25 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 25 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-25/</guid>
     </item>
@@ -203,7 +233,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 24 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-24/</guid>
     </item>
@@ -228,7 +258,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 23 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 23 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-23/</guid>
     </item>
@@ -260,7 +290,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 22 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-22/</guid>
     </item>
@@ -281,7 +311,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/175&quot;&gt;#175&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 21 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 21 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-21/</guid>
     </item>
@@ -307,7 +337,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/174&quot;&gt;#174&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 20 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 20 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-20/</guid>
     </item>
@@ -334,7 +364,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/173&quot;&gt;#173&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 19 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 19 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-19/</guid>
     </item>
@@ -363,7 +393,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/172&quot;&gt;#172&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 18 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 18 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-18/</guid>
     </item>
@@ -383,7 +413,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/172&quot;&gt;#172&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 17 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 17 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-17/</guid>
     </item>
@@ -409,7 +439,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/172&quot;&gt;#172&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 16 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 16 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-16/</guid>
     </item>
@@ -436,7 +466,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/169&quot;&gt;#169&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 15 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 15 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-15/</guid>
     </item>
@@ -473,7 +503,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/169&quot;&gt;#169&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 14 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 14 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-14/</guid>
     </item>
@@ -506,7 +536,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/167&quot;&gt;#167&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 13 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 13 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-13/</guid>
     </item>
@@ -526,7 +556,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/405&quot;&gt;#405&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 12 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 12 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-12/</guid>
     </item>
@@ -561,7 +591,7 @@
 &lt;li&gt;tisza-fuite-du-2025-11-8/ (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/discussions/48&quot;&gt;#48&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 11 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 11 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-11/</guid>
     </item>
@@ -581,7 +611,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/398&quot;&gt;#398&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 10 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 10 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-10/</guid>
     </item>
@@ -601,7 +631,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/398&quot;&gt;#398&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 09 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 09 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-09/</guid>
     </item>
@@ -627,7 +657,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/164&quot;&gt;#164&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 08 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 08 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-08/</guid>
     </item>
@@ -661,7 +691,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/163&quot;&gt;#163&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 07 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 07 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-07/</guid>
     </item>
@@ -688,7 +718,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/163&quot;&gt;#163&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 06 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 06 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-06/</guid>
     </item>
@@ -709,7 +739,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/162&quot;&gt;#162&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 05 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 05 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-05/</guid>
     </item>
@@ -729,7 +759,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 04 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 04 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-04/</guid>
     </item>
@@ -749,7 +779,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 03 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 03 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-03/</guid>
     </item>
@@ -769,7 +799,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 02 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 02 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-02/</guid>
     </item>
@@ -798,7 +828,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 01 Nov 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 01 Nov 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-01/</guid>
     </item>
@@ -818,7 +848,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 31 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 31 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-31/</guid>
     </item>
@@ -842,7 +872,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 30 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 30 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-30/</guid>
     </item>
@@ -863,7 +893,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 29 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 29 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-29/</guid>
     </item>
@@ -883,7 +913,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 28 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 28 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-28/</guid>
     </item>
@@ -903,7 +933,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 27 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 27 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-27/</guid>
     </item>
@@ -923,7 +953,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 26 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 26 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-26/</guid>
     </item>
@@ -943,7 +973,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 25 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 25 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-25/</guid>
     </item>
@@ -963,7 +993,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 24 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-24/</guid>
     </item>
@@ -983,7 +1013,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 23 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 23 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-23/</guid>
     </item>
@@ -1003,7 +1033,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 22 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 22 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-22/</guid>
     </item>
@@ -1023,7 +1053,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 21 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 21 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-21/</guid>
     </item>
@@ -1043,7 +1073,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 20 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 20 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-20/</guid>
     </item>
@@ -1063,7 +1093,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 19 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 19 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-19/</guid>
     </item>
@@ -1088,7 +1118,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 18 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 18 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-18/</guid>
     </item>
@@ -1112,7 +1142,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/161&quot;&gt;#161&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 17 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 17 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-17/</guid>
     </item>
@@ -1153,7 +1183,7 @@
 &lt;li&gt;[Snyk] Upgrade ngx-chips from 2.1.0 to 2.2.2 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/pia/pull/24&quot;&gt;#24&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 16 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 16 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-16/</guid>
     </item>
@@ -1177,7 +1207,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/160&quot;&gt;#160&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 15 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 15 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-15/</guid>
     </item>
@@ -1216,7 +1246,7 @@
 &lt;li&gt;[Snyk] Upgrade xml-formatter from 3.6.6 to 3.6.7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1227&quot;&gt;#1227&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 14 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 14 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-14/</guid>
     </item>
@@ -1236,7 +1266,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/159&quot;&gt;#159&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 13 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 13 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-13/</guid>
     </item>
@@ -1261,7 +1291,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/159&quot;&gt;#159&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 12 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 12 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-12/</guid>
     </item>
@@ -1290,7 +1320,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/159&quot;&gt;#159&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 11 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 11 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-11/</guid>
     </item>
@@ -1318,7 +1348,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/159&quot;&gt;#159&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 10 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 10 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-10/</guid>
     </item>
@@ -1341,7 +1371,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/158&quot;&gt;#158&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 09 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-09/</guid>
     </item>
@@ -1361,7 +1391,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/370&quot;&gt;#370&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 08 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 08 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-08/</guid>
     </item>
@@ -1377,7 +1407,7 @@
 &lt;li&gt;Potential fix for code scanning alert no. 27: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/vbcq-volley/source/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 07 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 07 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-07/</guid>
     </item>
@@ -1397,7 +1427,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/370&quot;&gt;#370&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 07 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 07 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-07/</guid>
     </item>
@@ -1417,7 +1447,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/370&quot;&gt;#370&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 06 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 06 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-06/</guid>
     </item>
@@ -1432,7 +1462,7 @@
 &lt;li&gt;Potential fix for code scanning alert no. 27: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/vbcq-volley/source/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 05 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 05 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-05/</guid>
     </item>
@@ -1452,7 +1482,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/370&quot;&gt;#370&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 05 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 05 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-05/</guid>
     </item>
@@ -1467,7 +1497,7 @@
 &lt;li&gt;Potential fix for code scanning alert no. 28: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/vbcq-volley/source/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 04 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 04 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-04/</guid>
     </item>
@@ -1487,7 +1517,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/370&quot;&gt;#370&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 04 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 04 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-04/</guid>
     </item>
@@ -1502,7 +1532,7 @@
 &lt;li&gt;Potential fix for code scanning alert no. 28: Incomplete multi-character sanitization (&lt;a href=&quot;https://github.com/vbcq-volley/source/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 03 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 03 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-03/</guid>
     </item>
@@ -1531,7 +1561,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 03 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 03 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-03/</guid>
     </item>
@@ -1551,7 +1581,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 02 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 02 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-02/</guid>
     </item>
@@ -1571,7 +1601,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 01 Oct 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 01 Oct 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-01/</guid>
     </item>
@@ -1591,7 +1621,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 30 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 30 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-30/</guid>
     </item>
@@ -1611,7 +1641,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 29 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 29 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-29/</guid>
     </item>
@@ -1631,7 +1661,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 28 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 28 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-28/</guid>
     </item>
@@ -1651,7 +1681,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/368&quot;&gt;#368&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 27 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 27 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-27/</guid>
     </item>
@@ -1675,7 +1705,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/154&quot;&gt;#154&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 26 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 26 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-26/</guid>
     </item>
@@ -1702,7 +1732,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/153&quot;&gt;#153&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 25 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 25 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-25/</guid>
     </item>
@@ -1722,7 +1752,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 24 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 24 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-24/</guid>
     </item>
@@ -1742,7 +1772,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 23 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 23 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-23/</guid>
     </item>
@@ -1762,7 +1792,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 22 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 22 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-22/</guid>
     </item>
@@ -1782,7 +1812,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 21 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 21 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-21/</guid>
     </item>
@@ -1802,7 +1832,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 20 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 20 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-20/</guid>
     </item>
@@ -1822,7 +1852,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 19 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-19/</guid>
     </item>
@@ -1842,7 +1872,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 18 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-18/</guid>
     </item>
@@ -1863,7 +1893,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/151&quot;&gt;#151&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 17 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-17/</guid>
     </item>
@@ -1883,7 +1913,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 16 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-16/</guid>
     </item>
@@ -1903,7 +1933,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 15 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 15 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-15/</guid>
     </item>
@@ -1923,7 +1953,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 14 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 14 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-14/</guid>
     </item>
@@ -1948,7 +1978,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/150&quot;&gt;#150&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 13 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 13 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-13/</guid>
     </item>
@@ -1968,7 +1998,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 12 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 12 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-12/</guid>
     </item>
@@ -1988,7 +2018,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 11 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 11 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-11/</guid>
     </item>
@@ -2008,7 +2038,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 10 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 10 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-10/</guid>
     </item>
@@ -2028,7 +2058,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 09 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 09 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-09/</guid>
     </item>
@@ -2048,7 +2078,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 08 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 08 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-08/</guid>
     </item>
@@ -2068,7 +2098,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 07 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 07 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-07/</guid>
     </item>
@@ -2088,7 +2118,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 06 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 06 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-06/</guid>
     </item>
@@ -2109,7 +2139,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/149&quot;&gt;#149&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 05 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 05 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-05/</guid>
     </item>
@@ -2129,7 +2159,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 04 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 04 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-04/</guid>
     </item>
@@ -2149,7 +2179,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 03 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 03 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-03/</guid>
     </item>
@@ -2169,7 +2199,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 02 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 02 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-02/</guid>
     </item>
@@ -2189,7 +2219,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 01 Sep 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 01 Sep 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-01/</guid>
     </item>
@@ -2209,7 +2239,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 31 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 31 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-31/</guid>
     </item>
@@ -2229,7 +2259,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 30 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 30 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-30/</guid>
     </item>
@@ -2249,7 +2279,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 29 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 29 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-29/</guid>
     </item>
@@ -2269,7 +2299,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 28 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 28 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-28/</guid>
     </item>
@@ -2289,7 +2319,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 27 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-27/</guid>
     </item>
@@ -2316,7 +2346,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 26 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-26/</guid>
     </item>
@@ -2341,7 +2371,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 25 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 25 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-25/</guid>
     </item>
@@ -2361,7 +2391,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 24 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 24 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-24/</guid>
     </item>
@@ -2386,7 +2416,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 23 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 23 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-23/</guid>
     </item>
@@ -2411,7 +2441,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 22 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 22 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-22/</guid>
     </item>
@@ -2431,7 +2461,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 21 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-21/</guid>
     </item>
@@ -2451,7 +2481,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/359&quot;&gt;#359&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 20 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 20 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-20/</guid>
     </item>
@@ -2481,7 +2511,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/146&quot;&gt;#146&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 19 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 19 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-19/</guid>
     </item>
@@ -2506,7 +2536,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/146&quot;&gt;#146&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 18 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 18 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-18/</guid>
     </item>
@@ -2537,7 +2567,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/146&quot;&gt;#146&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 17 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 17 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-17/</guid>
     </item>
@@ -2562,7 +2592,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/146&quot;&gt;#146&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 16 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 16 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-16/</guid>
     </item>
@@ -2587,7 +2617,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/146&quot;&gt;#146&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 15 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-15/</guid>
     </item>
@@ -2607,7 +2637,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/357&quot;&gt;#357&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 14 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 14 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-14/</guid>
     </item>
@@ -2635,7 +2665,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/145&quot;&gt;#145&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 13 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 13 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-13/</guid>
     </item>
@@ -2655,7 +2685,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 12 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 12 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-12/</guid>
     </item>
@@ -2675,7 +2705,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 11 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 11 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-11/</guid>
     </item>
@@ -2695,7 +2725,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 10 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 10 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-10/</guid>
     </item>
@@ -2715,7 +2745,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 09 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 09 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-09/</guid>
     </item>
@@ -2735,7 +2765,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 08 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 08 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-08/</guid>
     </item>
@@ -2755,7 +2785,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 07 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 07 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-07/</guid>
     </item>
@@ -2775,7 +2805,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 06 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 06 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-06/</guid>
     </item>
@@ -2796,7 +2826,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/145&quot;&gt;#145&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 05 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 05 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-05/</guid>
     </item>
@@ -2816,7 +2846,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 04 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 04 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-04/</guid>
     </item>
@@ -2836,7 +2866,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 03 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 03 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-03/</guid>
     </item>
@@ -2856,7 +2886,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 02 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 02 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-02/</guid>
     </item>
@@ -2881,7 +2911,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 01 Aug 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 01 Aug 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-01/</guid>
     </item>
@@ -2901,7 +2931,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 31 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 31 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-31/</guid>
     </item>
@@ -2921,7 +2951,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 30 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 30 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-30/</guid>
     </item>
@@ -2941,7 +2971,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 29 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 29 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-29/</guid>
     </item>
@@ -2961,7 +2991,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 28 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 28 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-28/</guid>
     </item>
@@ -2981,7 +3011,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 27 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 27 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-27/</guid>
     </item>
@@ -3006,7 +3036,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 26 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 26 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-26/</guid>
     </item>
@@ -3031,7 +3061,7 @@
 &lt;li&gt;chore(deps): bump themes/freemind/source/tarteaucitron from &lt;code&gt;93e69c3&lt;/code&gt; to &lt;code&gt;8f48f1b&lt;/code&gt; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/45&quot;&gt;#45&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 25 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 25 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-25/</guid>
     </item>
@@ -3051,7 +3081,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 24 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 24 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-24/</guid>
     </item>
@@ -3066,7 +3096,7 @@
 &lt;li&gt;Bump ansi-regex from 3.0.0 to 3.0.1 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 23 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 23 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-07-23/</guid>
     </item>
@@ -3090,7 +3120,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/353&quot;&gt;#353&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 23 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 23 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-23/</guid>
     </item>
@@ -3110,7 +3140,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 22 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 22 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-22/</guid>
     </item>
@@ -3130,7 +3160,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 21 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 21 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-21/</guid>
     </item>
@@ -3161,7 +3191,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 20 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 20 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-20/</guid>
     </item>
@@ -3187,7 +3217,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 19 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 19 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-19/</guid>
     </item>
@@ -3211,7 +3241,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 18 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 18 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-18/</guid>
     </item>
@@ -3231,7 +3261,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 17 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 17 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-17/</guid>
     </item>
@@ -3251,7 +3281,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 16 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 16 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-16/</guid>
     </item>
@@ -3276,7 +3306,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/144&quot;&gt;#144&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 15 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 15 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-15/</guid>
     </item>
@@ -3296,7 +3326,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/143&quot;&gt;#143&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 14 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 14 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-14/</guid>
     </item>
@@ -3316,7 +3346,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/143&quot;&gt;#143&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 13 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 13 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-13/</guid>
     </item>
@@ -3340,7 +3370,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/143&quot;&gt;#143&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 12 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 12 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-12/</guid>
     </item>
@@ -3360,7 +3390,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 11 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 11 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-11/</guid>
     </item>
@@ -3385,7 +3415,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 10 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 10 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-10/</guid>
     </item>
@@ -3412,7 +3442,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 09 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 09 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-09/</guid>
     </item>
@@ -3432,7 +3462,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 08 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 08 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-08/</guid>
     </item>
@@ -3452,7 +3482,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 07 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 07 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-07/</guid>
     </item>
@@ -3476,7 +3506,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 06 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 06 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-06/</guid>
     </item>
@@ -3500,7 +3530,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 05 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 05 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-05/</guid>
     </item>
@@ -3530,7 +3560,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/142&quot;&gt;#142&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 04 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 04 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-04/</guid>
     </item>
@@ -3555,7 +3585,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/141&quot;&gt;#141&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 03 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 03 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-03/</guid>
     </item>
@@ -3580,7 +3610,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/338&quot;&gt;#338&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 02 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 02 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-02/</guid>
     </item>
@@ -3605,7 +3635,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/140&quot;&gt;#140&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 01 Jul 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 01 Jul 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-01/</guid>
     </item>
@@ -3629,7 +3659,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/140&quot;&gt;#140&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 30 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 30 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-30/</guid>
     </item>
@@ -3649,7 +3679,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/337&quot;&gt;#337&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 29 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 29 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-29/</guid>
     </item>
@@ -3668,7 +3698,7 @@
 &lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2869&quot;&gt;#2869&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 28 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 28 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-28/</guid>
     </item>
@@ -3697,7 +3727,7 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/336&quot;&gt;#336&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 28 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 28 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-28/</guid>
     </item>
@@ -3730,7 +3760,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/137&quot;&gt;#137&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 27 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 27 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-27/</guid>
     </item>
@@ -3768,7 +3798,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/136&quot;&gt;#136&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 26 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 26 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-26/</guid>
     </item>
@@ -3789,7 +3819,7 @@
 &lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2853&quot;&gt;#2853&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 25 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 25 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/</guid>
     </item>
@@ -3845,7 +3875,7 @@
 &lt;li&gt;Fork Sync: Update from parent repository (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/stable-diffusion-webui-amdgpu/pull/21&quot;&gt;#21&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 25 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 25 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-25/</guid>
     </item>
@@ -3860,7 +3890,7 @@
 &lt;li&gt;Create dependabot.yml (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2221&quot;&gt;#2221&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 24 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 24 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/</guid>
     </item>
@@ -3894,7 +3924,7 @@
 &lt;li&gt;[Snyk] Upgrade xml-formatter from 3.6.5 to 3.6.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1225&quot;&gt;#1225&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 24 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 24 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/</guid>
     </item>
@@ -3909,7 +3939,7 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/134&quot;&gt;#134&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 23 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 23 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-23/</guid>
     </item>
@@ -3929,7 +3959,7 @@
 &lt;li&gt;[Snyk] Upgrade xml-formatter from 3.6.5 to 3.6.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1225&quot;&gt;#1225&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 22 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-22/</guid>
     </item>
@@ -3954,7 +3984,7 @@
 &lt;li&gt;Bump got from 11.8.5 to 14.4.7 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 21 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 21 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-21/</guid>
     </item>
@@ -3984,7 +4014,7 @@
 &lt;li&gt;chore(deps): bump simple-git from 3.27.0 to 3.28.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/36&quot;&gt;#36&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sat, 21 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Sat, 21 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-21/</guid>
     </item>
@@ -4004,7 +4034,7 @@
 &lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2762&quot;&gt;#2762&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 20 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 20 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-20/</guid>
     </item>
@@ -4044,7 +4074,7 @@
 &lt;li&gt;(Semgrep) Fixed finding: &amp;quot;insecure-document-method&amp;quot; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/304&quot;&gt;#304&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 20 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Fri, 20 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-20/</guid>
     </item>
@@ -4064,7 +4094,7 @@
 &lt;li&gt;Dev (&lt;a href=&quot;https://github.com/vbcq-volley/temp/pull/2753&quot;&gt;#2753&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 19 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-19/</guid>
     </item>
@@ -4110,7 +4140,7 @@
 &lt;li&gt;chore(deps): bump source from &lt;code&gt;9de04a7&lt;/code&gt; to &lt;code&gt;0fe609f&lt;/code&gt; (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/37&quot;&gt;#37&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Thu, 19 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Thu, 19 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-19/</guid>
     </item>
@@ -4146,7 +4176,7 @@
 &lt;li&gt;update (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/32&quot;&gt;#32&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 18 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-18/</guid>
     </item>
@@ -4187,7 +4217,7 @@
 &lt;li&gt;Bump got from 9.6.0 to 11.8.5 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 17 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 17 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-17/</guid>
     </item>
@@ -4232,7 +4262,7 @@
 &lt;li&gt;update  (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/31&quot;&gt;#31&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Tue, 17 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Tue, 17 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-17/</guid>
     </item>
@@ -4247,7 +4277,7 @@
 &lt;li&gt;Bump got from 9.6.0 to 11.8.5 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 16 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 16 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-16/</guid>
     </item>
@@ -4285,7 +4315,7 @@
 &lt;li&gt;update  (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/vbcq/pull/31&quot;&gt;#31&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 16 Jun 2025 23:59:59 GMT</pubDate>
+      <pubDate>Mon, 16 Jun 2025 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-16/</guid>
     </item>

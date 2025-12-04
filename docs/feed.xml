@@ -7,7 +7,77 @@
     <description>This is a longer description about your blog.</description>
     <language>fr </language>
     <item>
-      <title>Weekly Retro - perso-2025-12-02</title>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-04/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-12-03 to 2025-12-04&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 11 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/446&quot;&gt;#446&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vitest from 4.0.14 to 4.0.15 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/445&quot;&gt;#445&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/444&quot;&gt;#444&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/443&quot;&gt;#443&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/442&quot;&gt;#442&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.4 to 7.2.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/441&quot;&gt;#441&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;skid-inc&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix formatting in save-metadata-manager.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/skid-inc/pull/3&quot;&gt;#3&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 5: Indirect uncontrolled command line (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/skid-inc/pull/2&quot;&gt;#2&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;hexo-generator-feed&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Filter out breaches with &#39;cve&#39; in their name (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/hexo-generator-feed/pull/1&quot;&gt;#1&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/181&quot;&gt;#181&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add meaningful &lt;title&gt; to RSS item in docs/feed.xml (merges into #178) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/180&quot;&gt;#180&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/title&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Thu, 04 Dec 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-04/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-03/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-12-02 to 2025-12-03&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Add meaningful &lt;title&gt; to RSS item in docs/feed.xml (merges into #178) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/180&quot;&gt;#180&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensure RFC-822-compliant &lt;pubDate&gt; by removing 24:00:00 (merges into #178) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/179&quot;&gt;#179&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/178&quot;&gt;#178&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/442&quot;&gt;#442&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.4 to 7.2.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/441&quot;&gt;#441&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/439&quot;&gt;#439&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/title&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Wed, 03 Dec 2025 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-03/</guid>
+    </item>
+    <item>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-12-01 to 2025-12-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -27,7 +97,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-02/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-12-01</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-01/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-30 to 2025-12-01&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -47,7 +117,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-12-01/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-30</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-30/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-29 to 2025-11-30&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -67,7 +137,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-30/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-29</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-29/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-28 to 2025-11-29&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -87,7 +157,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-29/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-27 to 2025-11-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -112,7 +182,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-27</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-27/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-26 to 2025-11-27&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -133,7 +203,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-27/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-26</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-26/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-25 to 2025-11-26&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -158,7 +228,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-26/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-24 to 2025-11-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -188,7 +258,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-23 to 2025-11-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -208,7 +278,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-22 to 2025-11-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -233,7 +303,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-22</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-21 to 2025-11-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 7 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -265,7 +335,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-22/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-20 to 2025-11-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -286,7 +356,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-19 to 2025-11-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -312,7 +382,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-18 to 2025-11-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -339,7 +409,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-18</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-18/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-17 to 2025-11-18&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 8 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -368,7 +438,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-18/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-16 to 2025-11-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -388,7 +458,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-15 to 2025-11-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -414,7 +484,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-16/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-15</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-15/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-14 to 2025-11-15&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -441,7 +511,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-15/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-14</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-14/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-13 to 2025-11-14&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -478,7 +548,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-14/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-13</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-13/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-12 to 2025-11-13&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -511,7 +581,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-13/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-12</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-12/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-11 to 2025-11-12&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -531,7 +601,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-12/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-11</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-11/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-10 to 2025-11-11&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 3 authors, and 1 Discussion from 1 author.&lt;/p&gt;
@@ -566,7 +636,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-11/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-10</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-10/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-09 to 2025-11-10&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -586,7 +656,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-10/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-09</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-09/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-08 to 2025-11-09&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -606,7 +676,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-09/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-08</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-08/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-07 to 2025-11-08&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -632,7 +702,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-08/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-07</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-07/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-06 to 2025-11-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 10 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -666,7 +736,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-07/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-06</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-06/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-05 to 2025-11-06&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -693,7 +763,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-06/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-05</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-05/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-04 to 2025-11-05&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -714,7 +784,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-05/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-04</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-04/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-03 to 2025-11-04&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -734,7 +804,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-04/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-03</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-03/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-02 to 2025-11-03&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -754,7 +824,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-03/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-02</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-11-01 to 2025-11-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -774,7 +844,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-02/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-11-01</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-01/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-31 to 2025-11-01&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -803,7 +873,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-11-01/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-31</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-31/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-30 to 2025-10-31&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -823,7 +893,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-31/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-30</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-30/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-29 to 2025-10-30&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -847,7 +917,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-30/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-29</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-29/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-28 to 2025-10-29&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -868,7 +938,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-29/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-27 to 2025-10-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -888,7 +958,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-27</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-27/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-26 to 2025-10-27&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -908,7 +978,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-27/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-26</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-26/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-25 to 2025-10-26&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -928,7 +998,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-26/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-24 to 2025-10-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -948,7 +1018,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-23 to 2025-10-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -968,7 +1038,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-22 to 2025-10-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -988,7 +1058,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-22</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-21 to 2025-10-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1008,7 +1078,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-22/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-20 to 2025-10-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1028,7 +1098,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-19 to 2025-10-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1048,7 +1118,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-18 to 2025-10-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1068,7 +1138,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-18</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-18/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-17 to 2025-10-18&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1093,7 +1163,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-18/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-16 to 2025-10-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1117,7 +1187,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-15 to 2025-10-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1158,7 +1228,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-16/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-15</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-15/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-14 to 2025-10-15&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1182,7 +1252,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-15/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-14</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-14/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-13 to 2025-10-14&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 7 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1221,7 +1291,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-14/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-13</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-13/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-12 to 2025-10-13&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1241,7 +1311,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-13/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-12</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-12/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-11 to 2025-10-12&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1266,7 +1336,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-12/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-11</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-11/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-10 to 2025-10-11&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1295,7 +1365,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-11/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-10</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-10/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-09 to 2025-10-10&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1323,7 +1393,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-10/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-09</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-09/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-08 to 2025-10-09&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1346,7 +1416,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-09/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-08</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-08/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-07 to 2025-10-08&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1366,7 +1436,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-08/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-10-07</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-07/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-10-06 to 2025-10-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1382,7 +1452,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-07/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-07</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-07/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-06 to 2025-10-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1402,7 +1472,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-07/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-06</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-06/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-05 to 2025-10-06&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1422,7 +1492,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-06/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-10-05</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-05/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-10-04 to 2025-10-05&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1437,7 +1507,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-05/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-05</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-05/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-04 to 2025-10-05&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1457,7 +1527,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-05/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-10-04</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-04/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-10-03 to 2025-10-04&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1472,7 +1542,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-04/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-04</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-04/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-03 to 2025-10-04&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1492,7 +1562,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-04/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-10-03</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-03/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-10-02 to 2025-10-03&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1507,7 +1577,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-10-03/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-03</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-03/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-02 to 2025-10-03&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1536,7 +1606,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-03/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-02</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-10-01 to 2025-10-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1556,7 +1626,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-02/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-10-01</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-01/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-30 to 2025-10-01&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1576,7 +1646,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-10-01/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-30</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-30/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-29 to 2025-09-30&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1596,7 +1666,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-30/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-29</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-29/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-28 to 2025-09-29&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1616,7 +1686,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-29/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-27 to 2025-09-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1636,7 +1706,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-27</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-27/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-26 to 2025-09-27&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1656,7 +1726,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-27/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-26</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-26/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-25 to 2025-09-26&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1680,7 +1750,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-26/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-24 to 2025-09-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1707,7 +1777,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-23 to 2025-09-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1727,7 +1797,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-22 to 2025-09-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1747,7 +1817,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-22</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-21 to 2025-09-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1767,7 +1837,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-22/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-20 to 2025-09-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1787,7 +1857,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-19 to 2025-09-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1807,7 +1877,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-18 to 2025-09-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1827,7 +1897,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-18</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-18/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-17 to 2025-09-18&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1847,7 +1917,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-18/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-16 to 2025-09-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1868,7 +1938,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-15 to 2025-09-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1888,7 +1958,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-16/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-15</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-15/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-14 to 2025-09-15&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1908,7 +1978,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-15/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-14</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-14/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-13 to 2025-09-14&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1928,7 +1998,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-14/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-13</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-13/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-12 to 2025-09-13&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1953,7 +2023,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-13/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-12</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-12/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-11 to 2025-09-12&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1973,7 +2043,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-12/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-11</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-11/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-10 to 2025-09-11&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -1993,7 +2063,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-11/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-10</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-10/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-09 to 2025-09-10&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2013,7 +2083,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-10/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-09</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-09/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-08 to 2025-09-09&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2033,7 +2103,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-09/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-08</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-08/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-07 to 2025-09-08&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2053,7 +2123,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-08/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-07</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-07/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-06 to 2025-09-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2073,7 +2143,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-07/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-06</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-06/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-05 to 2025-09-06&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2093,7 +2163,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-06/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-05</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-05/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-04 to 2025-09-05&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2114,7 +2184,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-05/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-04</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-04/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-03 to 2025-09-04&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2134,7 +2204,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-04/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-03</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-03/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-02 to 2025-09-03&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2154,7 +2224,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-03/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-02</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-09-01 to 2025-09-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2174,7 +2244,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-02/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-09-01</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-01/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-31 to 2025-09-01&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2194,7 +2264,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-09-01/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-31</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-31/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-30 to 2025-08-31&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2214,7 +2284,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-31/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-30</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-30/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-29 to 2025-08-30&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2234,7 +2304,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-30/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-29</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-29/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-28 to 2025-08-29&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2254,7 +2324,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-29/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-27 to 2025-08-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2274,7 +2344,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-27</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-27/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-26 to 2025-08-27&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2294,7 +2364,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-27/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-26</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-26/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-25 to 2025-08-26&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2321,7 +2391,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-26/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-24 to 2025-08-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2346,7 +2416,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-23 to 2025-08-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2366,7 +2436,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-22 to 2025-08-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2391,7 +2461,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-22</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-21 to 2025-08-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2416,7 +2486,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-22/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-20 to 2025-08-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2436,7 +2506,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-19 to 2025-08-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2456,7 +2526,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-18 to 2025-08-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2486,7 +2556,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-18</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-18/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-17 to 2025-08-18&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2511,7 +2581,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-18/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-16 to 2025-08-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2542,7 +2612,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-15 to 2025-08-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2567,7 +2637,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-16/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-15</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-15/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-14 to 2025-08-15&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2592,7 +2662,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-15/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-14</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-14/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-13 to 2025-08-14&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2612,7 +2682,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-14/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-13</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-13/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-12 to 2025-08-13&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 7 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2640,7 +2710,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-13/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-12</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-12/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-11 to 2025-08-12&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2660,7 +2730,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-12/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-11</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-11/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-10 to 2025-08-11&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2680,7 +2750,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-11/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-10</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-10/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-09 to 2025-08-10&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2700,7 +2770,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-10/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-09</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-09/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-08 to 2025-08-09&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2720,7 +2790,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-09/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-08</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-08/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-07 to 2025-08-08&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2740,7 +2810,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-08/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-07</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-07/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-06 to 2025-08-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2760,7 +2830,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-07/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-06</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-06/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-05 to 2025-08-06&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2780,7 +2850,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-06/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-05</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-05/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-04 to 2025-08-05&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2801,7 +2871,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-05/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-04</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-04/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-03 to 2025-08-04&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2821,7 +2891,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-04/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-03</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-03/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-02 to 2025-08-03&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2841,7 +2911,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-03/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-02</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-08-01 to 2025-08-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2861,7 +2931,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-02/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-08-01</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-01/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-31 to 2025-08-01&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2886,7 +2956,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-08-01/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-31</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-31/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-30 to 2025-07-31&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2906,7 +2976,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-31/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-30</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-30/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-29 to 2025-07-30&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2926,7 +2996,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-30/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-29</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-29/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-28 to 2025-07-29&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2946,7 +3016,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-29/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-27 to 2025-07-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2966,7 +3036,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-27</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-27/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-26 to 2025-07-27&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -2986,7 +3056,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-27/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-26</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-26/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-25 to 2025-07-26&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3011,7 +3081,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-26/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-24 to 2025-07-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3036,7 +3106,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-23 to 2025-07-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3056,7 +3126,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-07-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-07-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-07-22 to 2025-07-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3071,7 +3141,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-07-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-22 to 2025-07-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3095,7 +3165,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-22</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-21 to 2025-07-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3115,7 +3185,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-22/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-20 to 2025-07-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3135,7 +3205,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-19 to 2025-07-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3166,7 +3236,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-18 to 2025-07-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3192,7 +3262,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-18</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-18/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-17 to 2025-07-18&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3216,7 +3286,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-18/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-16 to 2025-07-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3236,7 +3306,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-15 to 2025-07-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3256,7 +3326,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-16/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-15</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-15/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-14 to 2025-07-15&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3281,7 +3351,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-15/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-14</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-14/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-13 to 2025-07-14&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3301,7 +3371,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-14/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-13</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-13/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-12 to 2025-07-13&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3321,7 +3391,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-13/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-12</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-12/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-11 to 2025-07-12&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3345,7 +3415,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-12/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-11</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-11/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-10 to 2025-07-11&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3365,7 +3435,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-11/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-10</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-10/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-09 to 2025-07-10&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3390,7 +3460,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-10/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-09</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-09/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-08 to 2025-07-09&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3417,7 +3487,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-09/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-08</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-08/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-07 to 2025-07-08&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3437,7 +3507,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-08/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-07</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-07/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-06 to 2025-07-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3457,7 +3527,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-07/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-06</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-06/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-05 to 2025-07-06&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3481,7 +3551,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-06/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-05</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-05/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-04 to 2025-07-05&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3505,7 +3575,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-05/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-04</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-04/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-03 to 2025-07-04&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3535,7 +3605,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-04/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-03</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-03/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-02 to 2025-07-03&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3560,7 +3630,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-03/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-02</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-02/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-07-01 to 2025-07-02&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3585,7 +3655,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-02/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-07-01</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-01/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-30 to 2025-07-01&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3610,7 +3680,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-07-01/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-30</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-30/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-29 to 2025-06-30&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3634,7 +3704,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-30/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-29</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-29/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-28 to 2025-06-29&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3654,7 +3724,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-29/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-27 to 2025-06-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
@@ -3673,7 +3743,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-28</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-28/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-27 to 2025-06-28&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3702,7 +3772,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-28/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-27</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-27/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-26 to 2025-06-27&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 8 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3735,7 +3805,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-27/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-26</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-26/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-25 to 2025-06-26&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 13 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3773,7 +3843,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-26/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-24 to 2025-06-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 2 Discussions from 1 authors.&lt;/p&gt;
@@ -3794,7 +3864,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-25</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-25/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-24 to 2025-06-25&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 24 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3850,7 +3920,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-25/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-23 to 2025-06-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3865,7 +3935,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-24</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-23 to 2025-06-24&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3899,7 +3969,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-24/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-23</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-23/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-22 to 2025-06-23&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3914,7 +3984,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-23/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-22</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-22/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-21 to 2025-06-22&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3934,7 +4004,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-22/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-20 to 2025-06-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
@@ -3959,7 +4029,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-21</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-21/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-20 to 2025-06-21&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -3989,7 +4059,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-21/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-19 to 2025-06-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
@@ -4009,7 +4079,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-20</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-20/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-19 to 2025-06-20&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -4049,7 +4119,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-20/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-18 to 2025-06-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 1 Discussions from 1 authors.&lt;/p&gt;
@@ -4069,7 +4139,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-19</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-18 to 2025-06-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -4115,7 +4185,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-19/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-18</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-18/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-17 to 2025-06-18&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 8 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -4151,7 +4221,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-18/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-16 to 2025-06-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 12 Pull Requests from 2 authors, and 5 Discussions from 1 authors.&lt;/p&gt;
@@ -4192,7 +4262,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-17</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-17/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-16 to 2025-06-17&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 17 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -4237,7 +4307,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-17/</guid>
     </item>
     <item>
-      <title>Weekly Retro - vbcq-2025-06-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2025-06-15 to 2025-06-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 1 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -4252,7 +4322,7 @@
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2025-06-16/</guid>
     </item>
     <item>
-      <title>Weekly Retro - perso-2025-06-16</title>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2025-06-16/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2025-06-15 to 2025-06-16&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 10 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;

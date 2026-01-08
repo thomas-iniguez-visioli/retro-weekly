@@ -8,13 +8,18 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-07/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-06 to 2026-01-07&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-08/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-07 to 2026-01-08&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.7 to 7.3.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/461&quot;&gt;#461&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/460&quot;&gt;#460&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.7 to 7.3.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/457&quot;&gt;#457&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -22,9 +27,9 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/187&quot;&gt;#187&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 07 Jan 2026 24:00:00 GMT</pubDate>
+      <pubDate>Thu, 08 Jan 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-07/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-08/</guid>
     </item>
     <item>
       <title></title>

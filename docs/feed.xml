@@ -8,6 +8,31 @@
     <language>fr </language>
     <item>
       <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-28/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-27 to 2026-01-28&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;nodejs-news-feeder&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[Snyk] Security upgrade remark from 14.0.3 to 15.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/nodejs-news-feeder/pull/1243&quot;&gt;#1243&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/190&quot;&gt;#190&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/467&quot;&gt;#467&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Wed, 28 Jan 2026 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-28/</guid>
+    </item>
+    <item>
+      <title></title>
       <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-19/</link>
       <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-18 to 2026-01-19&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
@@ -30,6 +55,96 @@
       <pubDate>Mon, 19 Jan 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
       <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-19/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-18/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-17 to 2026-01-18&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/466&quot;&gt;#466&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/189&quot;&gt;#189&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sun, 18 Jan 2026 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-18/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-17/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-16 to 2026-01-17&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/466&quot;&gt;#466&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/189&quot;&gt;#189&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Sat, 17 Jan 2026 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-17/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-16/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-15 to 2026-01-16&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 8 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/466&quot;&gt;#466&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vitest from 4.0.15 to 4.0.17 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/462&quot;&gt;#462&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump vite from 7.2.7 to 7.3.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/461&quot;&gt;#461&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/465&quot;&gt;#465&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump undici from 7.11.0 to 7.18.2 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/464&quot;&gt;#464&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/463&quot;&gt;#463&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump jsdom from 27.3.0 to 27.4.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/459&quot;&gt;#459&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/189&quot;&gt;#189&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Fri, 16 Jan 2026 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-16/</guid>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-15/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-01-14 to 2026-01-15&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;build(deps): bump undici from 7.11.0 to 7.18.2 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/464&quot;&gt;#464&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/463&quot;&gt;#463&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/188&quot;&gt;#188&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <pubDate>Thu, 15 Jan 2026 24:00:00 GMT</pubDate>
+      <dc:creator>thomas iniguez</dc:creator>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-01-15/</guid>
     </item>
     <item>
       <title></title>

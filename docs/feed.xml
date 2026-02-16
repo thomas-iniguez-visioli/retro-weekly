@@ -8,18 +8,20 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-15/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-02-14 to 2026-02-15&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-16/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-02-15 to 2026-02-16&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 5 Pull Requests from 2 authors, and 2 Discussions from 1 authors.&lt;/p&gt;
 &lt;h3&gt;youtube-public&lt;/h3&gt;
-&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;h4&gt;Open Discussions&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Task 4 error erreur de t l chargement pour https www youtube com playlist list pltglqlm5yf3mrvnshxaciaozrt nsyclo ytdlp a quitt avec le code 255 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/32&quot;&gt;#32&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Task 4 error file already exists (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1.1.37-6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/discussions/41&quot;&gt;#41&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Welcome to youtube-public Discussions! (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/discussions/40&quot;&gt;#40&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Task 4: file not found (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/25&quot;&gt;#25&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Task 4: ReferenceError: Cannot access &#39;updateFile&#39; before initialization (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/34&quot;&gt;#34&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Task 4 error erreur de t l chargement pour https www youtube com playlist list pltglqlm5yf3mrvnshxaciaozrt nsyclo ytdlp a quitt avec le code 255 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/32&quot;&gt;#32&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Task 4 error file already exists (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/29&quot;&gt;#29&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -32,9 +34,9 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/467&quot;&gt;#467&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 15 Feb 2026 24:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Feb 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-15/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-16/</guid>
     </item>
     <item>
       <title></title>

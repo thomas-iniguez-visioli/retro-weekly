@@ -8,18 +8,14 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-25/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-02-24 to 2026-02-25&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-26/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-02-25 to 2026-02-26&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;build(deps): bump lodash from 4.17.21 to 4.17.23 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/469&quot;&gt;#469&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump the npm_and_yarn group across 1 directory with 1 update (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/478&quot;&gt;#478&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/467&quot;&gt;#467&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix/rss workflow cli path (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/477&quot;&gt;#477&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -27,9 +23,9 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/192&quot;&gt;#192&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Wed, 25 Feb 2026 24:00:00 GMT</pubDate>
+      <pubDate>Thu, 26 Feb 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-25/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-02-26/</guid>
     </item>
     <item>
       <title></title>

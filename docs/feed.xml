@@ -8,14 +8,14 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-06/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-03-05 to 2026-03-06&lt;/h1&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-07/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-03-06 to 2026-03-07&lt;/h1&gt;
 &lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/480&quot;&gt;#480&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump jsdom from 27.4.0 to 28.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/470&quot;&gt;#470&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps-dev): bump @vitejs/plugin-vue from 6.0.3 to 6.0.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/471&quot;&gt;#471&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -23,9 +23,9 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/192&quot;&gt;#192&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 06 Mar 2026 24:00:00 GMT</pubDate>
+      <pubDate>Sat, 07 Mar 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-06/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-07/</guid>
     </item>
     <item>
       <title></title>

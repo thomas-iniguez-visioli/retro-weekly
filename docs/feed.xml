@@ -8,19 +8,13 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-23/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-03-22 to 2026-03-23&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 6 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-24/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-03-23 to 2026-03-24&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;youtube-public&lt;/h3&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;style: modernize UI (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/96&quot;&gt;#96&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;perf: optimize database lookups and routing (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/95&quot;&gt;#95&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;fix: resolve video playback request drops (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/94&quot;&gt;#94&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;fix: restore channel download button (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/97&quot;&gt;#97&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 26: Type confusion through parameter tampering (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/99&quot;&gt;#99&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -33,9 +27,9 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/194&quot;&gt;#194&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Mon, 23 Mar 2026 24:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Mar 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-23/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-03-24/</guid>
     </item>
     <item>
       <title></title>

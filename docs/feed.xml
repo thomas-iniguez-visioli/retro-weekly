@@ -8,36 +8,24 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-05-01/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-04-30 to 2026-05-01&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 19 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-05-02/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-05-01 to 2026-05-02&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 9 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;blog-cine&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump hexo-seo from 2.0.0 to 2.0.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/blog-cine/pull/7&quot;&gt;#7&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump simple-git from 3.27.0 to 3.36.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/blog-cine/pull/6&quot;&gt;#6&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump hexo from 7.3.0 to 8.1.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/blog-cine/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bump hexo-generator-searchdb from 1.4.1 to 1.5.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/blog-cine/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;build(deps): bump hexo-generator-feed from 3.0.0 to 4.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/500&quot;&gt;#500&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump html-to-text from 9.0.5 to 10.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/499&quot;&gt;#499&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump hexo-pro from 1.2.10 to 2.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/498&quot;&gt;#498&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/497&quot;&gt;#497&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/496&quot;&gt;#496&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/495&quot;&gt;#495&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump jsdom from 27.4.0 to 29.1.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/494&quot;&gt;#494&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps): bump reveal.js from 5.2.1 to 6.0.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/492&quot;&gt;#492&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump @vitejs/plugin-vue from 6.0.3 to 6.0.6 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/491&quot;&gt;#491&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/490&quot;&gt;#490&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/489&quot;&gt;#489&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps): bump postcss from 8.5.6 to 8.5.12 in /newsletter-program in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/488&quot;&gt;#488&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps): bump the npm_and_yarn group across 2 directories with 2 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/487&quot;&gt;#487&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Potential fix for code scanning alert no. 128: DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/485&quot;&gt;#485&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/484&quot;&gt;#484&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps): bump lodash from 4.17.21 to 4.17.23 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/469&quot;&gt;#469&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump vitest from 4.0.17 to 4.1.5 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/468&quot;&gt;#468&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump vite from 7.2.7 to 8.0.10 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/461&quot;&gt;#461&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;build(deps): bump simple-git from 3.32.2 to 3.36.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/493&quot;&gt;#493&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump @vitejs/plugin-vue from 6.0.3 to 6.0.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/471&quot;&gt;#471&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps-dev): bump jsdom from 27.4.0 to 28.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/470&quot;&gt;#470&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -45,9 +33,9 @@
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/195&quot;&gt;#195&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Fri, 01 May 2026 24:00:00 GMT</pubDate>
+      <pubDate>Sat, 02 May 2026 24:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-05-01/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-05-02/</guid>
     </item>
     <item>
       <title></title>

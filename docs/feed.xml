@@ -8,22 +8,29 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2026-09-24/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;vbcq-volley&lt;/code&gt; from 2026-09-23 to 2026-09-24&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 2 Pull Requests from 1 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
-&lt;h3&gt;git-win&lt;/h3&gt;
-&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Bump the npm_and_yarn group across 1 directory with 9 updates (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/5&quot;&gt;#5&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-09-24/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-09-23 to 2026-09-24&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 2 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+&lt;h3&gt;youtube-public&lt;/h3&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Bump ansi-regex from 3.0.0 to 3.0.1 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/vbcq-volley/git-win/pull/4&quot;&gt;#4&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;feat: support du proxy depuis l&#39;env et correction du hang unzip sous bun (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/176&quot;&gt;#176&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add &#39;--&#39; to output options in downloader.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/175&quot;&gt;#175&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;portfolio&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/497&quot;&gt;#497&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;retro-weekly&lt;/h3&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/195&quot;&gt;#195&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/vbcq-2026-09-24/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-09-24/</guid>
     </item>
     <item>
       <title></title>

@@ -8,64 +8,28 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-15/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-10-14 to 2026-10-15&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 26 Pull Requests from 5 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-16/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-10-15 to 2026-10-16&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 3 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;youtube-public&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
+&lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;fix(ci): signer le certificat de rotation avec le certificat preceden… (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/206&quot;&gt;#206&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(ci): apply pending GitHub Actions updates from dependency dashboard (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/205&quot;&gt;#205&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Merge/all open prs (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/202&quot;&gt;#202&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;build(deps): bump the npm_and_yarn group across 1 directory with 2 updates (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/201&quot;&gt;#201&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency typescript to v7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/197&quot;&gt;#197&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency rollbar to v4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/196&quot;&gt;#196&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency https-proxy-agent to v9 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/195&quot;&gt;#195&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency express-rate-limit to v8 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/194&quot;&gt;#194&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency electron to v44 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/193&quot;&gt;#193&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency ejs to v7 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/192&quot;&gt;#192&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency typescript to v5.9.3 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/191&quot;&gt;#191&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency express to v5.3.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/190&quot;&gt;#190&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency electron-log to v5.4.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/189&quot;&gt;#189&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency electron to v43.7.9 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/188&quot;&gt;#188&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency uuid to v14.0.3 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/187&quot;&gt;#187&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency unzipper to v0.12.5 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/186&quot;&gt;#186&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency socket.io to v4.8.4 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/185&quot;&gt;#185&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update dependency express-rate-limit to v7.5.1 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/184&quot;&gt;#184&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;chore(bump): update actions/github-script digest to f28e40c (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/183&quot;&gt;#183&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;No changes made — insufficient quota to complete task (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/204&quot;&gt;#204&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;No changes made: insufficient quota to complete coverage setup (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/203&quot;&gt;#203&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(bump): update dependency electron to v44.7.2 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/207&quot;&gt;#207&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/196&quot;&gt;#196&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;doc: generate weekly retro (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/retro-weekly/pull/195&quot;&gt;#195&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3&gt;portfolio&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/508&quot;&gt;#508&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/497&quot;&gt;#497&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;AdminLTE&lt;/h3&gt;
-&lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;[Snyk] Security upgrade eslint from 9.27.0 to 10.0.0 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/AdminLTE/pull/22&quot;&gt;#22&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
 </description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-15/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-16/</guid>
     </item>
     <item>
       <title></title>

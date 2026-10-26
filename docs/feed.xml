@@ -8,14 +8,41 @@
     <language>fr </language>
     <item>
       <title></title>
-      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-25/</link>
-      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-10-24 to 2026-10-25&lt;/h1&gt;
-&lt;p&gt;Reporting on 0 Issues from 0 authors, 4 Pull Requests from 3 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
+      <link>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-26/</link>
+      <description>&lt;h1&gt;Retrospective for &lt;code&gt;thomas-iniguez-visioli&lt;/code&gt; from 2026-10-25 to 2026-10-26&lt;/h1&gt;
+&lt;p&gt;Reporting on 0 Issues from 0 authors, 26 Pull Requests from 4 authors, and 0 Discussions from 0 authors.&lt;/p&gt;
 &lt;h3&gt;youtube-public&lt;/h3&gt;
 &lt;h4&gt;Merged Pull Requests&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;fix(ci): use GH_PAT for PR automerge, fix repository-dispatch, semver patch logic, and release concurrency (2.1.11) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/225&quot;&gt;#225&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(updater): pin trusted thumbprints in autoUpdater signature verifier to bypass CERT_E_UNTRUSTEDROOT (2.1.10) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/224&quot;&gt;#224&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(ci): fix apostrophe escape in rotate workflow step summary (2.1.9) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/223&quot;&gt;#223&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(ci): add -Exportable flag to Import-PfxCertificate for CA chain re-export (2.1.7) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/222&quot;&gt;#222&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(signing): trust cert in TrustedPublisher and reconcile watch progress on index reload (2.1.6) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/221&quot;&gt;#221&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;chore(security): explicitly exclude private key files (*.pfx, *.p12, *.key, *.pem) from git and electron build (2.1.5) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/219&quot;&gt;#219&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(signing): isolate PKI into 4 dedicated secrets and update annual rotation workflow (2.1.4) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/218&quot;&gt;#218&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(signing): cross-sign Root CA with previous Root CA (2.1.3) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/217&quot;&gt;#217&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(signing): deploy 2-tier PKI certificate pair and resolve isWatched render error (2.1.2) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/216&quot;&gt;#216&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(signing): remove CN= prefix from publisherName and ensure early cert trust on boot (2.0.11) (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/215&quot;&gt;#215&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;feat: integrate LaunchDarkly A/B experimentation and TubeArchivist features, bump to 2.0.9 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/214&quot;&gt;#214&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;fix(build): align author and publisherName with signing cert subject and bump version to 2.0.5 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/211&quot;&gt;#211&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;chore(bump): update dependency uuid to v14.0.3 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/209&quot;&gt;#209&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;build(deps): bump follow-redirects from 1.16.0 to 1.16.1 in the npm_and_yarn group across 1 directory (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/208&quot;&gt;#208&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fix(ci): signer le certificat de rotation avec le certificat preceden… (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/206&quot;&gt;#206&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Merge/all open prs (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/202&quot;&gt;#202&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[Vega] Install LaunchDarkly Electron client SDK (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/181&quot;&gt;#181&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Potential fix for code scanning alert no. 103: DOM text reinterpreted as HTML (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/177&quot;&gt;#177&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add &#39;--&#39; to output options in downloader.js (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/175&quot;&gt;#175&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Optimiser l&#39;indexation asynchrone et les recherches de chaînes (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/174&quot;&gt;#174&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;feat(v1.7.11): increase front logs buffer (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/126&quot;&gt;#126&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Closed Pull Requests&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix/remove cn publishername signing 2.0.11 (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/220&quot;&gt;#220&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Task 4: Error: ENOSPC: no space left on device, write (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/61&quot;&gt;#61&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Task 4: Error: stderr: WARNING: [youtube] [jsc] Error solving n challenge request using &amp;quot;bun&amp;quot; provider: Error running bun process (returncode: 1): 54 |         /*!
+55 |  * SPDX-License-Identifier: Unlicense
+56 |  * This file was automatically generated by https:/ (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/youtube-public/pull/59&quot;&gt;#59&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;retro-weekly&lt;/h3&gt;
 &lt;h4&gt;Open Pull Requests&lt;/h4&gt;
@@ -28,9 +55,9 @@
 &lt;li&gt;Changes by create-pull-request action (&lt;a href=&quot;https://github.com/thomas-iniguez-visioli/portfolio/pull/508&quot;&gt;#508&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
       <dc:creator>thomas iniguez</dc:creator>
-      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-25/</guid>
+      <guid>https://thomas-iniguez-visioli.github.io/retro-weekly/perso-2026-10-26/</guid>
     </item>
     <item>
       <title></title>
